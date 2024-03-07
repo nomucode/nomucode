@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @nomucode
+- 👀 I’m interested in work as developer and learn new technologies.
+- 🌱 I’m currently learning Astro, React, Java and Spring.
+- 💞️ I’m looking to collaborate in some interesting projects.
+- 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/nomudev/ &&  
+- ⚡ Fun fact: I live by the River.
